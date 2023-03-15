@@ -12,6 +12,12 @@
   </footer>
 </template>
 
+<script>
+export default {
+  name: "BaseFooter",
+};
+</script>
+
 <style scoped>
 footer {
   padding-top: 10px;
